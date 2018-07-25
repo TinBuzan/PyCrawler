@@ -1,5 +1,5 @@
 # PyCrawler
-<<<<<<< HEAD
+
 
 ## Subheader
 
@@ -16,6 +16,3 @@ echo "$Variable"
 echo 'Hello PyCrawler Again'
 echo "$Variable2"
 ```
-=======
-Python based Web Crawler
->>>>>>> 3cf7af50cb13162a603b25cbbf213604ec781492
